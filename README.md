@@ -21,7 +21,7 @@ The main objectives of this project are to:
 
 ## 📊 Dashboard Preview
 
-Images/employee-analytics-dashboard.png
+Image/Employee Analytics Dasboard.png
 
 ## 📈 Key Performance Indicators
 
